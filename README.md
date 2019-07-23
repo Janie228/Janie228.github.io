@@ -1,2 +1,2 @@
-# Welcome to Jane Wallace's website
+# Welcome to Janie's website
 Portfolio
