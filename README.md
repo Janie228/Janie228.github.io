@@ -2,5 +2,6 @@
 
 ## Projects Links
 * [Earthquake Analysis with Leaflet](https://janie228.github.io/Earthquake_Leaflet/)
+* [Health Risk Factors with D3.js](https://janie228.github.io/Journalism/)
 
-Sorry for the inconvience.  This website is still under construction.
+## Sorry for the inconvience.  This website is still under construction.
