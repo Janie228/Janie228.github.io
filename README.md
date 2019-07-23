@@ -1,2 +1,2 @@
-# janie228.github.io-
+# Welcome to Jane Wallace's website
 Portfolio
