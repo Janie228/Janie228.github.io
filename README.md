@@ -12,7 +12,7 @@
   - [Github](https://github.com/Janie228/Biodiversity_Plotly)
 * [Mission-to-Mars Webscraping](https://jl-mission-to-mars.herokuapp.com/)  
   - [Github](https://github.com/Janie228/Mission-to-Mars_Webscraping)
-* Entrepreneur_Research 
+* Entrepreneur Research 
   - [Github](https://github.com/Janie228/Entrepreneur_Research)
 * Job Search ETL                                                            
   - [Github](https://github.com/Janie228/JobSearch_ETL)
